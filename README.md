@@ -50,8 +50,7 @@ python main.py --phase=test --model_file='./models/xxxxxx.npy'
 The generated answers will be saved in the folder `test/results`.
 
 ### Results
-A pretrained model with default configuration can be downloaded [here](https://app.box.com/s/jin3mfwnqblqiozits0xjihc1vqjvb34). This model was trained solely on the VQA v1 training data. It achieves accuracy **60.35%** on the VQA v1 validation data. Here are some successful examples:
-![examples](examples/examples.jpg)
+A pretrained model with default configuration can be downloaded [here](https://app.box.com/s/jin3mfwnqblqiozits0xjihc1vqjvb34). This model was trained solely on the VQA v1 training data. It achieves accuracy **60.35%** on the VQA v1 validation data. 
 
 
 ### References 
